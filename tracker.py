@@ -10,7 +10,7 @@ def get_timestamp():
 messages = [
     "Backup scheduled at midnight.",
     "Cipher update required.",
-    "Check the place where stories go medium.",
+    "Check the place where stories go - https://medium.com/@JaceTyronis.",
     "Protocol 7 authorized."
 ]
 
